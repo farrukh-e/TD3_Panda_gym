@@ -56,3 +56,12 @@ TODO: Finalize
 - [TD3 Paper](https://arxiv.org/abs/1802.09477)
 - [HER Paper](https://arxiv.org/abs/1707.01495)
 - [Panda-Gym](https://panda-gym.readthedocs.io/en/latest/)
+
+## TODO:
+- [ ] Finalize the list of tasks
+- [x] Implement TD3 baseline algorithm
+- [ ] Implement TD3+HER variation
+- [ ] Implement TD3+Imitation variation
+- [ ] Implement TD3+Imitation+HER variation
+- [ ] Run experiments and collect data
+- [ ] Analyze results and create visualizations
